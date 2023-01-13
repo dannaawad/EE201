@@ -1,5 +1,6 @@
-#aboutMe
-##**Danna Awad**
+# aboutMe
+## **Danna Awad**
+---
 ### *Fun facts about me*
 1. I am a Junior in ECE
 2. I am from Portland, OR
