@@ -457,10 +457,6 @@
     )
   )
 
-<<<<<<< HEAD
-=======
-
->>>>>>> Lab8
   (junction (at 46.99 105.41) (diameter 0) (color 0 0 0 0)
     (uuid 14bb4617-63e7-4b1e-a3e1-6bde7087c0bf)
   )
@@ -524,13 +520,10 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 502252a7-e72d-4631-abc0-f5b0b00e5748)
   )
-<<<<<<< HEAD
   (wire (pts (xy 95.25 105.41) (xy 95.25 123.19))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 521926ab-8174-4d1c-8674-c830e8782b77)
   )
-=======
->>>>>>> Lab8
   (wire (pts (xy 135.89 63.5) (xy 135.89 66.04))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 59056866-2b27-42ac-98af-ab03540cd386)
@@ -571,13 +564,6 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid aa58c7ed-624d-481e-a5f4-ab778747c3af)
   )
-<<<<<<< HEAD
-=======
-  (wire (pts (xy 95.25 125.73) (xy 95.25 123.19))
-    (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid adb202fc-58a1-4238-80b5-2e2d1128c75a)
-  )
->>>>>>> Lab8
   (wire (pts (xy 73.66 114.3) (xy 73.66 123.19))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid aea4f9de-ba06-4f30-8007-795d21645c2c)
@@ -610,13 +596,6 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid cfacd46a-1c88-4fb1-985a-405692741b5f)
   )
-<<<<<<< HEAD
-=======
-  (wire (pts (xy 95.25 105.41) (xy 95.25 123.19))
-    (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid da32d458-cb17-4a0f-ba4d-00d692ad4ca8)
-  )
->>>>>>> Lab8
   (wire (pts (xy 135.89 92.71) (xy 144.78 92.71))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid dd91fe80-14a9-40ab-913a-0b883705c005)
@@ -673,11 +652,7 @@
     (property "Value" "+9V" (id 1) (at 97.2694 85.09 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-<<<<<<< HEAD
     (property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" (id 2) (at 116.84 105.41 0)
-=======
-    (property "Footprint" "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm" (id 2) (at 116.84 105.41 0)
->>>>>>> Lab8
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/ne555.pdf" (id 3) (at 116.84 105.41 0)
@@ -702,11 +677,7 @@
     (property "Value" "1k" (id 1) (at 49.53 85.0899 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-<<<<<<< HEAD
     (property "Footprint" "" (id 2) (at 45.212 83.82 90)
-=======
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (id 2) (at 45.212 83.82 90)
->>>>>>> Lab8
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 46.99 83.82 0)
@@ -725,11 +696,7 @@
     (property "Value" "1k" (id 1) (at 138.43 86.3599 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-<<<<<<< HEAD
     (property "Footprint" "" (id 2) (at 134.112 85.09 90)
-=======
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (id 2) (at 134.112 85.09 90)
->>>>>>> Lab8
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 135.89 85.09 0)
@@ -748,11 +715,7 @@
     (property "Value" "LED" (id 1) (at 139.7 114.6174 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-<<<<<<< HEAD
     (property "Footprint" "" (id 2) (at 135.89 111.76 0)
-=======
-    (property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder" (id 2) (at 135.89 111.76 0)
->>>>>>> Lab8
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 135.89 111.76 0)
@@ -819,11 +782,7 @@
     (property "Value" " " (id 1) (at 93.98 66.6749 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-<<<<<<< HEAD
     (property "Footprint" "" (id 2) (at 90.17 66.04 0)
-=======
-    (property "Footprint" "TerminalBlock:TerminalBlock_bornier-2_P5.08mm" (id 2) (at 90.17 66.04 0)
->>>>>>> Lab8
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 90.17 66.04 0)
@@ -842,11 +801,7 @@
     (property "Value" "10uF" (id 1) (at 50.8 113.4109 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-<<<<<<< HEAD
     (property "Footprint" "" (id 2) (at 47.9552 116.84 0)
-=======
-    (property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3216-12_Kemet-S_Pad1.58x1.35mm_HandSolder" (id 2) (at 47.9552 116.84 0)
->>>>>>> Lab8
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 46.99 113.03 0)
@@ -865,11 +820,7 @@
     (property "Value" "1k" (id 1) (at 138.43 101.5999 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-<<<<<<< HEAD
     (property "Footprint" "" (id 2) (at 134.112 100.33 90)
-=======
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (id 2) (at 134.112 100.33 90)
->>>>>>> Lab8
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 135.89 100.33 0)
@@ -888,11 +839,7 @@
     (property "Value" "0.01uF" (id 1) (at 77.47 111.7599 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-<<<<<<< HEAD
     (property "Footprint" "" (id 2) (at 74.6252 114.3 0)
-=======
-    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (id 2) (at 74.6252 114.3 0)
->>>>>>> Lab8
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 73.66 110.49 0)
@@ -927,11 +874,7 @@
     (property "Value" "10k" (id 1) (at 49.53 99.0599 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-<<<<<<< HEAD
     (property "Footprint" "" (id 2) (at 45.212 97.79 90)
-=======
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (id 2) (at 45.212 97.79 90)
->>>>>>> Lab8
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 46.99 97.79 0)
@@ -950,11 +893,7 @@
     (property "Value" "LED" (id 1) (at 139.7 72.7074 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-<<<<<<< HEAD
     (property "Footprint" "" (id 2) (at 135.89 69.85 0)
-=======
-    (property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder" (id 2) (at 135.89 69.85 0)
->>>>>>> Lab8
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 135.89 69.85 0)
@@ -1020,7 +959,6 @@
       (reference "#PWR06") (unit 1) (value "+9V") (footprint "")
     )
     (path "/842609bc-8d4c-4229-a481-d52039f6029e"
-<<<<<<< HEAD
       (reference "C1") (unit 1) (value "10uF") (footprint "")
     )
     (path "/983d139e-a55c-442c-9efc-ad2ff14f94af"
@@ -1049,36 +987,6 @@
     )
     (path "/042538d2-d773-4242-8255-5a8ad7b62b9d"
       (reference "U1") (unit 1) (value "+9V") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
-=======
-      (reference "C1") (unit 1) (value "10uF") (footprint "Capacitor_Tantalum_SMD:CP_EIA-3216-12_Kemet-S_Pad1.58x1.35mm_HandSolder")
-    )
-    (path "/983d139e-a55c-442c-9efc-ad2ff14f94af"
-      (reference "C2") (unit 1) (value "0.01uF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
-    )
-    (path "/b1388d2a-0373-4404-8985-8515d6d386bc"
-      (reference "D1") (unit 1) (value "LED") (footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
-    )
-    (path "/1fde89ff-d509-463f-ac38-c33da047380d"
-      (reference "D2") (unit 1) (value "LED") (footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
-    )
-    (path "/631b5992-fe76-4ebb-952b-f791d089d327"
-      (reference "J1") (unit 1) (value " ") (footprint "TerminalBlock:TerminalBlock_bornier-2_P5.08mm")
-    )
-    (path "/0cd8e277-3bbb-46f1-b79f-94c9507eb771"
-      (reference "R1") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
-    )
-    (path "/b11089ff-59c5-4bd3-9725-ddc6fd12d4b4"
-      (reference "R2") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
-    )
-    (path "/18075212-096c-4c0c-888a-a2fb97c85bad"
-      (reference "R3") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
-    )
-    (path "/8cea03b0-bb04-4441-8871-5b4e3f2551f8"
-      (reference "R4") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
-    )
-    (path "/042538d2-d773-4242-8255-5a8ad7b62b9d"
-      (reference "U1") (unit 1) (value "+9V") (footprint "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm")
->>>>>>> Lab8
     )
   )
 )
